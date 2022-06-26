@@ -3,7 +3,7 @@ import {AppBar,Card,CardActions,CardActionArea,CardContent,CssBaseline,Grid ,Typ
 import CountUp from 'react-countup';
 import Cardmedia from "@material-ui/core/CardMedia";
 import ArrowBackIosIcon from '@material-ui/icons/ArrowBackIos';
-import Logo from "../../images/LogoSerene.jpg";
+import Logo from "../../images/SereneLogo.png";
 import Oceana from "../../images/Oceana.jpg";
 import OceanCon from "../../images/OceanCon.jpg";
 import ProjectAware from "../../images/ProjectAware.jpg";
